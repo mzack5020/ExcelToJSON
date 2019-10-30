@@ -31,3 +31,5 @@ Python script to convert Excel documents to JSON.
   ]
 }
 ```
+## Future Development Ideas
+* Error checking needs to be fully integrated.
